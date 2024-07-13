@@ -1,0 +1,6 @@
+/venv
+/__pycache__
+/.idea
+champion_list_file
+positional_index_file
+IR_data_news_12k.json
